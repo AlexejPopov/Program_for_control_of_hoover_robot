@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Updated_source_code.cpp">
+    <ClCompile Include="Robot_lecture_update.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
